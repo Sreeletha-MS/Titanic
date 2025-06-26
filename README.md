@@ -1,2 +1,4 @@
-# Titanic
-Titanic Passenger Survival Prediction
+# Titanic Passenger Survival Prediction
+ In this project, we will leverage machine learning techniques to predict the survival chances of Titanic passengers based on various features, such as sex, age, and passenger class. Use five different classification algorithms to see which one gives highest accuracy and with that, we aim to build a predictive model that will allow us to estimate the likelihood of survival for each individual aboard the Titanic.
+## Objective of the Project
+The primary objective of this project is to develop a machine learning model capable of predicting the survival status of Titanic passengers based on available data. The dataset includes information such as demographic attributes (age, sex), socioeconomic status (fare, class), and other relevant features. By analyzing these features, we seek to identify patterns that could influence survival rates and subsequently use these insights to make predictions on unseen data. In this project, we will train the model with LogisticRegression(), KNeighborsClassifier(), DecisionTreeClassifier(), SVC() and RandomForestClassifier() algorithms. Among these algorithm with high accuracy score will be choosen for model training and make prediction. 
